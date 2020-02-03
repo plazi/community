@@ -9,13 +9,13 @@ Post your GGI-related questions if they weren't answered by the available traini
 1. [Training Material](#Training-Material)  
 2. [How to Ask a Question](#How-to-Ask-a-Question)
     
-    a) Check if you question wasn't answered before
+    a) [Check if you question wasn't answered before](#check-if-you-question-wasnt-answered-before)
     
-    b) If not, create an Issue
+    b) [If not, create an Issue](#if-not-create-an-issue)
     
-    c) Don't forget to give context to your question
+    c) [Don't forget to give context to your question](#dont-forget-to-give-context-to-your-question)
     
-    d) Neither to close your question when it's time
+    d) [Neither to close your question when it's time]#neither-to-close-your-question-when-its-time)
 3. [How to Contribute](#How-to-Contribute)  
 4. [Licenses](#Licenses)
 
