@@ -23,7 +23,7 @@ We're developing a text-based, certificate granting online GGI course for indivi
 
 ![](https://i.imgur.com/lfNuX0B.jpg)
 
-### Don't foget to give context to your question
+### Don't forget to give context to your question
 
 ![](https://i.imgur.com/IwSJoQ2.jpg)
 
