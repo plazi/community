@@ -17,3 +17,7 @@ We're developing a text-based, certificate granting online GGI course for indivi
 #### Don't foget to give context to your question
 
 #### Neither to close your question when it's time
+
+### How to Contribute
+
+### Licenses
