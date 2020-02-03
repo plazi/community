@@ -20,4 +20,8 @@ We're developing a text-based, certificate granting online GGI course for indivi
 
 ### How to Contribute
 
+Asking questions, commenting on the training material and providing general feedback are good ways to contribute with this repository. Additionally, new ideas or feature requests are always welcome.
+
+Feel free to speak your mind!
+
 ### Licenses
