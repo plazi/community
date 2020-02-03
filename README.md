@@ -12,11 +12,29 @@ We're developing a text-based, certificate granting online GGI course for indivi
 
 ### Check if you question wasn't answered before
 
+![](https://i.imgur.com/XfZAOTk.jpg)
+![](https://i.imgur.com/LVQYhBh.jpg)
+
 ### If not, create an Issue
+
+![](https://i.imgur.com/79MU5OM.jpg)
+
+![](https://i.imgur.com/vl8U9jg.jpg)
+
+![](https://i.imgur.com/lfNuX0B.jpg)
 
 ### Don't foget to give context to your question
 
+![](https://i.imgur.com/IwSJoQ2.jpg)
+
+![](https://i.imgur.com/DXny1yf.jpg)
+
+![](https://i.imgur.com/Y0I5miU.jpg)
+
 ### Neither to close your question when it's time
+
+![](https://i.imgur.com/pf3Zdll.jpg)
+![](https://i.imgur.com/yFTZqUX.jpg)
 
 ## How to Contribute
 
