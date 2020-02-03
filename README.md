@@ -6,7 +6,7 @@ Post your GGI-related questions if they weren't answered by the available traini
 
 ### Training Material
 
-We're developing a text-based, certificate granting online GGI course for individual extractions and template creation. In the meanwhile, we've a commented list of steps for both processes, individual extractions and template creation. Moreover, for the former, there is a playlist of subtitled screencasts that illustrate each and every one of these steps. 
+We're developing a text-based, certificate granting online GGI course for individual extractions and template creation. In the meanwhile, we've a [commented list of steps](https://docs.google.com/document/d/1RM6N4dsWsHJrj1oDiEpFfUoM5SUtdlm0ntqRrJ5P07Y/edit?usp=sharing) for both processes. Moreover, for the former, there is a [playlist of subtitled screencasts](https://www.youtube.com/playlist?list=PLFbvkmnvLdUdGmmn8SR4xyRRxulvVu7BE) that illustrate each and every one of these steps. The subtitles is currently available only in English, but Brazilian Portuguese and Spanish versions are in the works. 
 
 ### How to Ask a Question
 
