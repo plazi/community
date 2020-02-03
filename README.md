@@ -4,6 +4,21 @@
 
 Post your GGI-related questions if they weren't answered by the available training material. For a better experience, please refer first to the [GitHub Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines).
 
+## Content
+
+1. [Training Material](#Training-Material)  
+2. [How to Ask a Question](#How-to-Ask-a-Question)
+    
+    a) Check if you question wasn't answered before
+    
+    b) If not, create an Issue
+    
+    c) Don't forget to give context to your question
+    
+    d) Neither to close your question when it's time
+3. [How to Contribute](#How-to-Contribute)  
+4. [Licenses](#Licenses)
+
 ## Training Material
 
 We're developing a text-based, certificate granting online GGI course for individual extractions and template creation. In the meanwhile, we've a [commented list of steps](https://docs.google.com/document/d/1RM6N4dsWsHJrj1oDiEpFfUoM5SUtdlm0ntqRrJ5P07Y/edit?usp=sharing) for both processes. Moreover, for the former, there is a [playlist of subtitled screencasts](https://www.youtube.com/playlist?list=PLFbvkmnvLdUdGmmn8SR4xyRRxulvVu7BE) that illustrate each and every one of these steps. The subtitles is currently available only in English, but Brazilian Portuguese and Spanish versions are in the works. 
