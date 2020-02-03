@@ -15,7 +15,7 @@ Post your GGI-related questions if they weren't answered by the available traini
     
     c) [Don't forget to give context to your question](#dont-forget-to-give-context-to-your-question)
     
-    d) [Neither to close your question when it's time]#neither-to-close-your-question-when-its-time)
+    d) [Neither to close your question when it's time](#neither-to-close-your-question-when-its-time)
 3. [How to Contribute](#How-to-Contribute)  
 4. [Licenses](#Licenses)
 
