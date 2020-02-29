@@ -1,6 +1,6 @@
-# plazi/learning
+# plazi/community
 
-> This repo is intended to serve as a help desk for GGI users. 
+> This repo is intended to serve as a community center for GGI users. 
 
 Post your GGI-related questions if they weren't answered by the available training material. For a better experience, please refer first to the [GitHub Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines).
 
