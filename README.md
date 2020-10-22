@@ -21,7 +21,7 @@ Post your GGI-related questions if they weren't answered by the available traini
 5. [Licenses](#Licenses)
 
 ## Publishers
-If you are interested in getting your journal into TreatmentBank and partners, please, contact us directly at **help@plazi.org**.  
+If you are interested in getting your journal into TreatmentBank and partners, please, contact us directly at **info@plazi.org**.  
 
 ## Training Material
 
