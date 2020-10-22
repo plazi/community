@@ -6,8 +6,9 @@ Post your GGI-related questions if they weren't answered by the available traini
 
 ## Content
 
-1. [Training Material](#Training-Material)  
-2. [How to Ask a Question](#How-to-Ask-a-Question)
+1. [For Publishers](#Publishers)
+2. [Training Material](#Training-Material)  
+3. [How to Ask a Question](#How-to-Ask-a-Question)
     
     a) [Check if you question wasn't answered before](#check-if-you-question-wasnt-answered-before)
     
@@ -16,8 +17,11 @@ Post your GGI-related questions if they weren't answered by the available traini
     c) [Don't forget to give context to your question](#dont-forget-to-give-context-to-your-question)
     
     d) [Neither to close your question when it's time](#neither-to-close-your-question-when-its-time)
-3. [How to Contribute](#How-to-Contribute)  
-4. [Licenses](#Licenses)
+4. [How to Contribute](#How-to-Contribute)  
+5. [Licenses](#Licenses)
+
+## Publishers
+If you are interested in getting your journal into TreatmentBank and partners, please, contact us directly at **help@plazi.org**.  
 
 ## Training Material
 
