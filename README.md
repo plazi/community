@@ -10,16 +10,7 @@ Post your GGI-related questions, requirements, ideas and/or suggestions on **Dis
 1. [For Publishers](#Publishers)
 2. [Training Material](#Training-Material)
 3. [How to Ask a Question](#How-to-Ask-a-Question)
-
-    a) [Check if you question wasn't answered before](#check-if-you-question-wasnt-answered-before)
-
-    b) [If not, create an Issue](#if-not-create-an-issue)
-
-    c) [Don't forget to give context to your question](#dont-forget-to-give-context-to-your-question)
-
-    d) [Neither to close your question when it's time](#neither-to-close-your-question-when-its-time)
 4. [How to Contribute](#How-to-Contribute)
-5. [Licenses](#Licenses)
 
 
 ## Publishers
