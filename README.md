@@ -1,6 +1,6 @@
 # plazi/community
 
-> This repo is intended to serve as a community center for GGI users. 
+> This repo is intended to serve as a community center for GGI users.
 
 Post your GGI-related questions, requirements, ideas and/or suggestions on **Discussions** if they weren't answered by the available training material. For a better experience, please refer first to the [GitHub Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines).
 
@@ -8,22 +8,22 @@ Post your GGI-related questions, requirements, ideas and/or suggestions on **Dis
 ## Content
 
 1. [For Publishers](#Publishers)
-2. [Training Material](#Training-Material)  
+2. [Training Material](#Training-Material)
 3. [How to Ask a Question](#How-to-Ask-a-Question)
-    
+
     a) [Check if you question wasn't answered before](#check-if-you-question-wasnt-answered-before)
-    
+
     b) [If not, create an Issue](#if-not-create-an-issue)
-    
+
     c) [Don't forget to give context to your question](#dont-forget-to-give-context-to-your-question)
-    
+
     d) [Neither to close your question when it's time](#neither-to-close-your-question-when-its-time)
-4. [How to Contribute](#How-to-Contribute)  
+4. [How to Contribute](#How-to-Contribute)
 5. [Licenses](#Licenses)
 
 
 ## Publishers
-If you are interested in getting your journal into TreatmentBank and partners, please, contact us directly at **info@plazi.org**.  
+If you are interested in getting your journal into TreatmentBank and partners, please, contact us directly at **info@plazi.org**.
 
 
 ## Training Material
@@ -35,22 +35,9 @@ We're developing a text-based, certificate granting online GGI course for indivi
 
 ## How to Ask a Question
 
-### Check if your questions, requirements, ideas and/or suggestions wasn't created before
+* **If you found a problem on our data or related systems, please create an [Issue](https://github.com/plazi/community/blob/master/howtos/Issues.md)**
 
-**First of all, click on `Discussions` as indicated below:**
-![](https://i.imgur.com/aKTnva7.png)
-
-**Then, use the search box and try to find a similar topic. Please, note that you can filter by answered/unanswered, labels, and types of discussions.**
-![](https://i.imgur.com/CGBLZEo.png)
-
-### If not, create an Issue
-
-**Click on `New discussion`**
-![](https://i.imgur.com/9zY4K6a.png)
-
-**Select the category, an informative title, and share your thoughts!** 
-![](https://i.imgur.com/NgajinZ.png)
-
+* **If you have a question, an idea or even a suggestion, please, use [Discussions](https://github.com/plazi/community/blob/master/howtos/Discussions.md)**
 
 ## How to Contribute
 
