@@ -34,6 +34,6 @@ We're developing a text-based, certificate granting online GGI course for indivi
 
 Asking questions, commenting on the training material and providing general feedback are good ways to contribute with this repository. Additionally, new ideas or feature requests are always welcome.
 
-If you want to submit files for processing, you can use this [location](https://plazich.sharepoint.com/sites/library). To get the permission to admin@plazi.org with 'upload files' in the status line and a stating you like to upload files for project x or reason y. 
+If you want to submit files for processing, you can use this [location](https://plazich.sharepoint.com/sites/library). To get the permission to the directory, send an email to admin@plazi.org with 'upload files' in the status line and a stating you like to upload files for project x or reason y. 
 
 Feel free to speak your mind!
