@@ -27,6 +27,7 @@ We're developing a text-based, certificate granting online GGI course for indivi
 ## How to Ask a Question
 
 * **If you found a problem on our data or related systems, please create an [Issue](https://github.com/plazi/community/blob/master/howtos/Issues.md)**. In the issue please include the link to the treatment (e.g. https://tb.plazi.org/GgServer/html//534215B803C251C8B94D2DE716C99BA2 or the article respectively https://tb.plazi.org/GgServer/summary/088FB3FF68605537BB17D8F33EB98F01, or if you arrive from GBIF, the respective material citation ID B30087960D07B607FF4BFFD0FA22F9F5#8BC13CDD0D05B607FE55F9B4FB66F9D1. 
+* If you are checking set of names by machine or doing a data audit, create one issue including a csv file with all the results instead of submitting individual cases. The csv should include the treatment UUID, article UUID, the wrong name, the correct name, link to the taxonomic name in the used reference data set.
 
 * **If you have a question, an idea or even a suggestion, please, use [Discussions](https://github.com/plazi/community/blob/master/howtos/Discussions.md)**
 
