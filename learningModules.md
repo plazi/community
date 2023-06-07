@@ -12,5 +12,5 @@ Scientific community, citizen scientists
 * Plazi presentation
 * Individual extraction
 * Quality control
-* Queries and data reuse
+* [Queries and data reuse](https://github.com/plazi/community/blob/master/Module%20Queries%20and%20Data%20Reuse.md)
 * Matching service
