@@ -9,7 +9,7 @@ After the conclusion of the modules “Individual Extraction” and “Quality C
 Scientific community, citizen scientists
 
 # Modules
-* Plazi presentation
+* [Plazi presentation](https://github.com/plazi/community/blob/master/Module%20Plazi%20Presentation.md)
 * Individual extraction
 * Quality control
 * [Queries and data reuse](https://github.com/plazi/community/blob/master/Module%20Queries%20and%20Data%20Reuse.md)
