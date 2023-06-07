@@ -13,4 +13,4 @@ Scientific community, citizen scientists
 * [Individual extraction](https://github.com/plazi/community/blob/master/Module%20Individual%20Extraction.md)
 * [Quality control](https://github.com/plazi/community/blob/master/Module%20Quality%20Control.md)
 * [Queries and data reuse](https://github.com/plazi/community/blob/master/Module%20Queries%20and%20Data%20Reuse.md)
-* Matching service
+* [Matching service](https://github.com/plazi/community/blob/master/Module%20Matching%20Service.md)
