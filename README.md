@@ -19,7 +19,7 @@ If you are interested in getting your journal into TreatmentBank and partners, p
 
 ## Training Material
 
-We're developing a text-based, certificate granting online [[learning material]] for individual extractions and template creation. In the meanwhile, we've a [commented list of steps](https://docs.google.com/document/d/1RM6N4dsWsHJrj1oDiEpFfUoM5SUtdlm0ntqRrJ5P07Y/edit?usp=sharing) for both processes. Moreover, for the former, there is a [playlist of subtitled screencasts](https://www.youtube.com/playlist?list=PLFbvkmnvLdUdGmmn8SR4xyRRxulvVu7BE) that illustrate each and every one of these steps. The subtitles is currently available only in English, but Brazilian Portuguese and Spanish versions are in the works.
+We're developing a text-based, certificate granting online [learning material](https://github.com/plazi/community/blob/master/learningModules.md) for individual extractions and template creation. In the meanwhile, we've a [commented list of steps](https://docs.google.com/document/d/1RM6N4dsWsHJrj1oDiEpFfUoM5SUtdlm0ntqRrJ5P07Y/edit?usp=sharing) for both processes. Moreover, for the former, there is a [playlist of subtitled screencasts](https://www.youtube.com/playlist?list=PLFbvkmnvLdUdGmmn8SR4xyRRxulvVu7BE) that illustrate each and every one of these steps. The subtitles is currently available only in English, but Brazilian Portuguese and Spanish versions are in the works.
 
 > Currently, we are not providing server access to [TreatmentBank](http://tb.plazi.org/).
 
