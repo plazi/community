@@ -7,4 +7,4 @@ Prerequisites: none.
 Learning objective: 
 - Data repositories - Queries and reuse
 
-Join module with Google Classroom (https://classroom.google.com/), using the class code xqzqsgn.
+Join module with Google Classroom (https://classroom.google.com/), using the class code **xqzqsgn**.
