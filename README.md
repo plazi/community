@@ -4,6 +4,7 @@
 
 Post your GGI-related questions, requirements, ideas and/or suggestions on **Discussions** if they weren't answered by the available training material. For a better experience, please refer first to the [GitHub Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines).
 
+Post data related feebacks such as errors in the annotations as an [issue](https://github.com/plazi/community/issues)
 
 ## Content
 
